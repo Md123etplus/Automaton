@@ -35,4 +35,8 @@ Avant d'exécuter le programme, assurez-vous d'avoir les ressources suivantes in
    - **Afficher l'automate** : Génère un fichier graphique représentant l'automate à l'aide de Graphviz.
    - **Afficher les mots acceptés** : Affiche les mots acceptés par l'automate.
    - **Tester un mot** : Vous permet de tester si un mot est accepté par l'automate.
+   - **Supression d'epsilon Transitions** : ..
+   - **Inversion** : ..
+   - **Minimisation** : ...
+   - **Determinisation** : ...
    - **Quitter** : Termine le programme.
