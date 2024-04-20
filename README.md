@@ -1,5 +1,4 @@
 # Automaton
-
 # Automate fini déterministe
 
 Ce programme implémente un automate fini déterministe (AFD) à partir d'un fichier texte spécifié. L'automate ainsi créé peut être utilisé pour diverses opérations telles que l'affichage des états initiaux et finaux, la génération d'un fichier graphique représentant l'automate, la vérification si un mot est accepté par l'automate, etc.
